@@ -1,5 +1,8 @@
-// Entry for "The Dog Ate My Homework: Funniest Excuse" (make.fun).
-// A dog's one-line excuse for eating the homework. The line is the whole entry.
-// Prints the line to stdout; the judge reads the same line from entry.txt.
-const LINE = "I didn't eat the homework — I gave it an unscheduled taste test, and it failed peer review.";
-console.log(LINE);
+// Dog's alibi, one line, for the make.fun homework excuse bounty.
+// The dog claims it was quality control, not lunch.
+// One line, 91 characters — inside the competition's 200-character cap.
+// Running this file just echoes the excuse to the terminal.
+const excuse =
+  "I didn't eat the homework — I gave it an unscheduled taste test, and it failed peer review.";
+
+console.log(excuse);
